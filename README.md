@@ -35,5 +35,5 @@ Y = ~(t1 & t2 & t3)  → Final circuit output (delay = 1)
 * Understanding the effect of propagation delays on circuit behavior.
 
 ## Waveform
-![Waveform](timingdiagram.png)
+![Waveform](timingdiagram.PNG)
 
